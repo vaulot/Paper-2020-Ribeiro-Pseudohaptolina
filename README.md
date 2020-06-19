@@ -5,4 +5,4 @@ Supplementary data
 * Scale measurements
 * Metabarcodes (ASVs) sequences and abundance
 
-Deposite to [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.06.081489v1)
+Deposited to [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.06.081489v1)
