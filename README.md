@@ -16,7 +16,7 @@ Gérikas Ribeiro C., Lopes dos Santos A., Probert I., Vaulot D., Edvardsen B. 20
 #### Metabarcodes (ASVs) sequences and abundances
 * supplementary_data_S04_18S_V4_ASV_alignment.fasta
 * supplementary_data_S05_18S_V4_ASV_abundance.xlsx
-* [R code for metabarcode analysis](https://vaulot.github.io/Paper-2020-Ribeiro-Pseudohaptolina/metaPR2-Haptolina.html)
+* R code for metabarcode analysis: https://vaulot.github.io/Paper-2020-Ribeiro-Pseudohaptolina/metaPR2-Haptolina.html
 
 
 Deposited to [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.06.081489v1)
